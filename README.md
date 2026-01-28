@@ -1,6 +1,6 @@
 # Data Structure Assignments
 **Student Name:** Norah Nasser
-**Group:**AI – G2
+**Group:** AI – G2
 
 ---
 
@@ -41,5 +41,8 @@
 
 ---
 
-### (Note):
-كتبت الحل النظري داخل ملف الـ **README** كبديل لملفات الـ **PDF**، لوجود مشكلة تقنية في عرض ملفات الـ PDF (Invalid PDF error).
+### ⚠️ ملاحظة تقنية (Note):
+تمت كتابة الحل النظري هنا كبديل لملفات الـ PDF نظرًا لوجود مشكلة تقنية في عرض ملفات الـ PDF داخل GitHub (Invalid PDF error)، ولضمان مراجعة الحل بسهولة.
+
+**Submitted to:** @suaad997 (Suad Aljuaid)
+**Done by:** @Norah-Nasser
